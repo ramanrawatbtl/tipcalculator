@@ -5,7 +5,7 @@ made tip calculator to calculate tip amount based on service
 
 - 🌱 
 
-- 👨‍💻 website link is []
+- 👨‍💻 website link is [https://tipcalculatorbyraman.netlify.app]
 
 
 
@@ -22,7 +22,7 @@ FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
 
 
 ```bash
-  HOST LINK :
+  HOST LINK : https://tipcalculatorbyraman.netlify.app
 ```
 
 
